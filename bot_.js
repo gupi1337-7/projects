@@ -1,6 +1,6 @@
 const TelegramBot = require("node-telegram-bot-api");
 const Fuse = require("fuse.js");
-const token = "7248408106:AAGOtQqvs8KXtaMSoS2trd-xYDJX0rWe-es";
+const token = "*";
 const bot = new TelegramBot(token, { polling: true });
 const fs = require("fs");
 
