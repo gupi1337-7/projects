@@ -178,13 +178,13 @@ Key features:
 
 ## 📫 Contact Maxym
 
-- 📧 [Email Maxym] (mcjillz1@gmail.com)
-- 🔗 [Write Maxym on Telegram] (https://t.me/Wp3ki4)
+- 📧 [Email Maxym](mcjillz1@gmail.com)
+- 🔗 [Write Maxym on Telegram](https://t.me/Wp3ki4)
 
 ## 📫 Contact Kirill
 
-- 📧 [Email Kirill] (voronov2142@gmail.com)
-- 🔗 [Write Kirill on Telegram] (https://t.me/gupi1337)
+- 📧 [Email Kirill](voronov2142@gmail.com)
+- 🔗 [Write Kirill on Telegram](https://t.me/gupi1337)
 
 ## 📜 License
 
