@@ -178,15 +178,13 @@ Key features:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gupi1337-7&show_icons=true&theme=radical)
 
-## 📫 Contact Maxym
+## 📫 Contact Us
 
-- 📧 [Email Maxym] (mcjillz1@gmail.com)
-- 🔗 [Write Maxym on Telegram] (https://t.me/Wp3ki4)
+- 📧 [Email Maxym](mcjillz1@gmail.com)
+- 🔗 [Write Maxym on Telegram](https://t.me/Wp3ki4)
 
-## 📫 Contact Kirill
-
-- 📧 [Email Kirill] (voronov2142@gmail.com)
-- 🔗 [Write Kirill on Telegram] (https://t.me/gupi1337)
+- 📧 [Email Kirill](voronov2142@gmail.com)
+- 🔗 [Write Kirill on Telegram](https://t.me/gupi1337)
 
 ## 📜 License
 
