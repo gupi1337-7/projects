@@ -180,7 +180,6 @@ Key features:
 
 ## 📫 Contact Maxym
 
-<<<<<<< HEAD
 - 📧 [Email Maxym] (mcjillz1@gmail.com)
 - 🔗 [Write Maxym on Telegram] (https://t.me/Wp3ki4)
 
@@ -188,15 +187,6 @@ Key features:
 
 - 📧 [Email Kirill] (voronov2142@gmail.com)
 - 🔗 [Write Kirill on Telegram] (https://t.me/gupi1337)
-=======
-- 📧 [Email Maxym](mcjillz1@gmail.com)
-- 🔗 [Write Maxym on Telegram](https://t.me/Wp3ki4)
-
-## 📫 Contact Kirill
-
-- 📧 [Email Kirill](voronov2142@gmail.com)
-- 🔗 [Write Kirill on Telegram](https://t.me/gupi1337)
->>>>>>> 82cc670ecaa10f8d72f35505851306a6a8c4eac7
 
 ## 📜 License
 
