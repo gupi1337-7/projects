@@ -181,9 +181,9 @@ Key features:
 ## 📫 Contact Us
 
 - 📧 [Email Maxym](mcjillz1@gmail.com)
-- 🔗 [Write Maxym on Telegram](https://t.me/Wp3ki4)
-
 - 📧 [Email Kirill](voronov2142@gmail.com)
+
+- 🔗 [Write Maxym on Telegram](https://t.me/Wp3ki4)
 - 🔗 [Write Kirill on Telegram](https://t.me/gupi1337)
 
 ## 📜 License
