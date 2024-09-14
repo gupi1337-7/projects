@@ -119,7 +119,9 @@ Key features:
 **Technologies:**
 
 -Node.JS
+
 -Fuse.js
+
 -NodeTelegramBotAPI
 
 **Reference:** [https://github.com/gupi1337-7/TGBotDBParser]
