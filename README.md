@@ -105,6 +105,39 @@ Key features:
 
 **Reference:** [https://github.com/gupi1337-7/Desktop-Notifications-To-Telegram]
 
+### 🌟 Project 5: TGBotDBParser
+
+
+A bot that spells out the maximum match from a database and replies what it has found to the user
+
+Key features:
+
+- Search by letter and exact key value
+- Additional menus (if needed)
+  
+
+**Technologies:**
+
+-Node.JS
+-Fuse.js
+-NodeTelegramBotAPI
+
+**Reference:** [https://github.com/gupi1337-7/TGBotDBParser]
+
+### 🌟 Project 6: Windows Notifications To Telegram
+
+![Notifications Logo](images/not.png)
+
+A bot that memorizes users' messages, breaks them down into words and letters, and with a certain chance generates a message and sends it to a specified chat
+
+**Technologies:**
+
+- Node.JS
+- NodeDiscordAPI
+
+**Reference:** [https://github.com/gupi1337-7/DiscrodMarkovifyChatBot]
+
+
 ## 🛠 Skills
 
 ### Programming Languages
