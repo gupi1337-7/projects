@@ -177,6 +177,8 @@ Key features:
 ## 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gupi1337-7&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rwhrsbh&show_icons=true&theme=radical)
+
 
 ## 📫 Contact Us
 
