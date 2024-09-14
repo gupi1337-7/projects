@@ -124,9 +124,7 @@ Key features:
 
 **Reference:** [https://github.com/gupi1337-7/TGBotDBParser]
 
-### 🌟 Project 6: Windows Notifications To Telegram
-
-![Notifications Logo](images/not.png)
+### 🌟 Project 6: DiscrodMarkovifyChatBot
 
 A bot that memorizes users' messages, breaks them down into words and letters, and with a certain chance generates a message and sends it to a specified chat
 
